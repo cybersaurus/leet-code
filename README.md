@@ -11,8 +11,16 @@
 | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | [SingleNumber.scala](src/main/scala/cybersaurus/leetcode/array/SingleNumber.scala) | Easy |
 | [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | [Intersection.scala](src/main/scala/cybersaurus/leetcode/array/Intersection.scala) | Easy |
 
+
 ### Chapter: [Sorting and Searching](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/)
 
 | Title | Solution | Difficulty |
 |-------|----------|------------|
 | [Merge Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/587/) | [MergeSorted.scala](src/main/scala/cybersaurus/leetcode/sorting/MergeSorted.scala) | Easy |
+
+
+### Chapter: [Math](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/)
+
+| Title | Solution | Difficulty |
+|-------|----------|------------|
+| [Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/) | [FizzBuzz.scala](src/main/scala/cybersaurus/leetcode/math/FizzBuzz.scala) | Easy |
