@@ -10,6 +10,7 @@
 | [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | [RotateArray.scala](src/main/scala/cybersaurus/leetcode/array/RotateArray.scala) | Easy |
 | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | [SingleNumber.scala](src/main/scala/cybersaurus/leetcode/array/SingleNumber.scala) | Easy |
 | [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | [Intersection.scala](src/main/scala/cybersaurus/leetcode/array/Intersection.scala) | Easy |
+| [Longest Palindromic Substring](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/) | [LongestPalindrome.scala](src/main/scala/cybersaurus/leetcode/array/LongestPalindrome.scala) | Medium |
 
 
 ### Chapter: [Sorting and Searching](https://leetcode.com/explore/interview/card/top-interview-questions-easy/96/sorting-and-searching/)
