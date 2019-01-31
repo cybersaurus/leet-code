@@ -25,3 +25,4 @@
 | Title | Solution | Difficulty |
 |-------|----------|------------|
 | [Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/) | [FizzBuzz.scala](src/main/scala/cybersaurus/leetcode/math/FizzBuzz.scala) | Easy |
+| [Roman to Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/) | [RomanNumeralToInteger.scala](src/main/scala/cybersaurus/leetcode/math/RomanNumeralToInteger.scala) | Easy |
