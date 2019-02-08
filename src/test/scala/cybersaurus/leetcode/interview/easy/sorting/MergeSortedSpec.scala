@@ -1,4 +1,4 @@
-package cybersaurus.leetcode.sorting
+package cybersaurus.leetcode.interview.easy.sorting
 
 import org.scalatest.{Matchers, WordSpec}
 

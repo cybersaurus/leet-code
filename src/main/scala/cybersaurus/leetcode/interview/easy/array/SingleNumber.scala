@@ -1,4 +1,4 @@
-package cybersaurus.leetcode.array
+package cybersaurus.leetcode.interview.easy.array
 
 object SingleNumber {
   def singleNumber(nums: Array[Int]): Int = singleNumberGroupBy(nums)

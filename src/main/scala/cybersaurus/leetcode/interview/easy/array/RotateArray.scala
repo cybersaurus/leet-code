@@ -1,4 +1,4 @@
-package cybersaurus.leetcode.array
+package cybersaurus.leetcode.interview.easy.array
 
 object RotateArray {
   def rotate(nums: Array[Int], k: Int): Unit = rotateArrayPlusPlus(nums, k)

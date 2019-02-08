@@ -1,4 +1,4 @@
-package cybersaurus.leetcode.array
+package cybersaurus.leetcode.interview.easy.array
 
 import scala.annotation.tailrec
 

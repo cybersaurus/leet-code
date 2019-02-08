@@ -1,5 +1,4 @@
-package cybersaurus.leetcode.array
-
+package cybersaurus.leetcode.interview.medium.array
 
 object LongestPalindrome {
   def longestPalindrome(s: String): String = longestPalindromeDoubleForLoops(s)

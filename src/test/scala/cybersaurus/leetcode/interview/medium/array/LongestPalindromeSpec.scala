@@ -1,4 +1,4 @@
-package cybersaurus.leetcode.array
+package cybersaurus.leetcode.interview.medium.array
 
 import org.scalatest.{Matchers, WordSpec}
 
