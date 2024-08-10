@@ -8,7 +8,7 @@ class RotateArraySpec extends AnyWordSpec with Matchers {
     "return an empty array unmodified" in {
       val data = Array[Int]()
       RotateArray.rotate(data, 0)
-      data shouldBe Array()
+      data shouldBe Array.empty[Int]
     }
 
     "return a single element array unmodified" in {
