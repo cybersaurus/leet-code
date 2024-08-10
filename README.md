@@ -4,12 +4,13 @@
 
 ### Chapter: [Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/)
 
-| Title | Solution | Difficulty |
-|-------|----------|------------|
-| [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | [RemoveDuplicates.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/RemoveDuplicates.scala) | Easy |
-| [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | [RotateArray.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/RotateArray.scala) | Easy |
-| [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | [SingleNumber.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/SingleNumber.scala) | Easy |
-| [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | [Intersection.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/Intersection.scala) | Easy |
+| Title                                                                                                                                  | Solution                                                                                                      | Difficulty |
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------|
+| [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)          | [RemoveDuplicates.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/RemoveDuplicates.scala)     | Easy |
+| [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)                                 | [RotateArray.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/RotateArray.scala)               | Easy |
+| [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)                                | [SingleNumber.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/SingleNumber.scala)             | Easy |
+| [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)                | [Intersection.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/Intersection.scala)             | Easy |
+| [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)                                     | [PlusOne.scala](src/main/scala/cybersaurus/leetcode/interview/easy/array/PlusOne.scala)                       | Easy |
 | [Longest Palindromic Substring](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/) | [LongestPalindrome.scala](src/main/scala/cybersaurus/leetcode/interview/medium/array/LongestPalindrome.scala) | Medium |
 
 
