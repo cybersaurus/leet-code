@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.array
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class RemoveDuplicatesSpec extends WordSpec with Matchers {
+class RemoveDuplicatesSpec extends AnyWordSpec with Matchers {
 
   "RemoveDuplicates" should {
     "return zero for an empty Array" in {

@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.array
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class RotateArraySpec extends WordSpec with Matchers {
+class RotateArraySpec extends AnyWordSpec with Matchers {
   "RotateArray" should {
     "return an empty array unmodified" in {
       val data = Array[Int]()

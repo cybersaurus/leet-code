@@ -2,8 +2,6 @@ name := "leet-code"
 
 version := "0.1"
 
-scalaVersion := "2.12.8"
+scalaVersion := "2.13.14"
 
-lazy val testScope = "test"
-
-libraryDependencies += "org.scalatest" %% "scalatest"   % "3.0.3"      % testScope
+libraryDependencies += "org.scalatest" %% "scalatest"   % "3.2.19"      % "test"

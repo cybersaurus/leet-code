@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.sorting
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class MergeSortedSpec extends WordSpec with Matchers {
+class MergeSortedSpec extends AnyWordSpec with Matchers {
   "MergeSorted" should {
     "merge an empty Array" in {
       val target = Array(1,2,3)

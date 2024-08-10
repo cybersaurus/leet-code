@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.array
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class IntersectionSpec extends WordSpec with Matchers {
+class IntersectionSpec extends AnyWordSpec with Matchers {
   "Intersection" should {
     "return empty Array for empty nums1" in {
       Intersection.intersect(Array(), Array(1,2,3)) should contain theSameElementsAs Array[Int]()

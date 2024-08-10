@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.math
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class CountPrimesSpec extends WordSpec with Matchers {
+class CountPrimesSpec extends AnyWordSpec with Matchers {
   "CountPrimes" should {
     "0 primes for input 0" in {
       CountPrimes.countPrimes(0) shouldBe 0

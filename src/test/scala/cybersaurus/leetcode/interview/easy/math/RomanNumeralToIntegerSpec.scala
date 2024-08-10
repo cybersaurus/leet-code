@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.math
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class RomanNumeralToIntegerSpec extends WordSpec with Matchers {
+class RomanNumeralToIntegerSpec extends AnyWordSpec with Matchers {
   "RomanNumeralToInteger" should {
     "return zero for empty input" in {
       RomanNumeralToInteger.romanToInt("") shouldBe 0

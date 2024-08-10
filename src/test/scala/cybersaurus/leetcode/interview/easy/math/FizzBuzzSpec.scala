@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.math
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class FizzBuzzSpec extends WordSpec with Matchers {
+class FizzBuzzSpec extends AnyWordSpec with Matchers {
   "FizzBuzz" should {
     "n=0: empty list" in {
       FizzBuzz.fizzBuzz(0) should contain theSameElementsAs List.empty

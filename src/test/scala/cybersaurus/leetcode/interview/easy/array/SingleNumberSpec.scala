@@ -1,8 +1,9 @@
 package cybersaurus.leetcode.interview.easy.array
 
-import org.scalatest.{Matchers, WordSpec}
+import org.scalatest.matchers.should.Matchers
+import org.scalatest.wordspec.AnyWordSpec
 
-class SingleNumberSpec extends WordSpec with Matchers {
+class SingleNumberSpec extends AnyWordSpec with Matchers {
   "SingleNumber" should {
     "return the number for an Array containing 1 element" in {
       SingleNumber.singleNumber(Array(1)) shouldBe 1
