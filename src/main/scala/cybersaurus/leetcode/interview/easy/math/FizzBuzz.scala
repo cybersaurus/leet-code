@@ -17,7 +17,7 @@ object FizzBuzz {
   private def fizzBuzzTailRecursive(n: Int): List[String] = {
     @tailrec
     def recurse(n: Int, acc: List[String]): List[String] = {
-      if (n == 0) return acc
+      if (n == 0) acc
       else {
         val current =
           if (n % 15 == 0) "FizzBuzz"
@@ -33,7 +33,7 @@ object FizzBuzz {
   }
 
   private def fizzBuzzRecursive(n: Int): List[String] = {
-    if (n == 0) return List.empty
+    if (n == 0) List.empty
     else {
       val current =
         if (n % 15 == 0) "FizzBuzz"
